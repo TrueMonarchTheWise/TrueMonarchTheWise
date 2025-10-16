@@ -1,4 +1,4 @@
-- Hey there, @TrueMonarchTheWise here. I'm not sure why you'd be here but you are. Neat. I have a general knowledge of Python and C/C++. Yippee!
+- Hey there, @TrueMonarchTheWise here. I have been taking classes in Python and C/C++.
 
 <!---
 TrueMonarchTheWise/TrueMonarchTheWise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
